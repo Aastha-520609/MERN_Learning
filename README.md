@@ -2,4 +2,5 @@
 
 
 Learning git cloning, git pull.
-Git Basics.
+Basics of git.
+Learning.
